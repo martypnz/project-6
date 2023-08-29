@@ -1,0 +1,12 @@
+/* *star symbol is called global selector and it selects everything */
+* {
+    /* border box makes all elements border and padding included */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html,
+  body {
+    height: 100%;
+  }
